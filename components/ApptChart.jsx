@@ -2,7 +2,6 @@
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
 
 export default function ApptChart({ data }) {
-  // expect data: [{ doctorName, count }]
   return (
     <div style={{ width: '100%', height: 220 }}>
       <ResponsiveContainer>
@@ -17,3 +16,4 @@ export default function ApptChart({ data }) {
     </div>
   );
 }
+
