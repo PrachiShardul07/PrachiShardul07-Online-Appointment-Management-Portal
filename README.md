@@ -94,6 +94,7 @@ npm run dev
 
 Visit the app at:
 👉 http://localhost:3000
+http://localhost:3000/admin/signup
 
 5️⃣ Build for production
 npm run build
