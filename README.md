@@ -144,13 +144,13 @@ Bar chart analytics
 
 Approx: 10–12 hours
 
-UI and styling – 3 hours
+UI and styling – 2 hours
 
 Backend API development – 3 hours
 
-Admin panel + authentication – 3 hours
+Admin panel + authentication – 2 hours
 
-Email functionality + debugging – 1–2 hours
+
 
 🚀 Future Improvements
 
